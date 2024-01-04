@@ -1,0 +1,7 @@
+query CompanyDetails {
+    company {
+        employees
+        founder
+        coo
+    }
+}
